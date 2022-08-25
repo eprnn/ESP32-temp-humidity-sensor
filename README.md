@@ -3,7 +3,7 @@ ESP32-based temp and humidity sensor to be used with e.g Node-Red backend
 
 ## Features:
 * Uses WiFi for internet access
-* POSTs temp & humidity data to HTTP a endpoint 
+* POSTs temp & humidity data to a HTTP endpoint 
 * Optional deep sleep for low electricity usage 
 * Optional serial debugging
 
